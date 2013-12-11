@@ -1,5 +1,11 @@
 {
-	"name": "LaunchpadScaleMapper",
-	"description": "Maps scales to a novation launchpad's buttons.",
-	"version": "1.0.0"
+  "name": "LaunchpadScaleMapper",
+  "description": "Maps scales to a novation launchpad's buttons.",
+  "version": "1.0.0",
+  "dependencies": {
+    "launchpadder": "0.0.5",
+    "node-notifier": "~1.0.0-beta",
+    "lodash": "~2.4.1",
+    "midi": "~0.7.0"
+  }
 }
